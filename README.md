@@ -112,13 +112,7 @@ AI Layer (GROQ)
 
 # 🖼 Screenshots
 
-Add screenshots inside the **screenshots/** folder.
-
-Example screenshots:
-
-Home Page
-AI Resume Generator
-Resume Preview
+| ![Home](./screenshots/Home.png) | ![AI Generator](./screenshots/ai-resume.png) |
 
 ---
 
