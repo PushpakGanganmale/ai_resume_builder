@@ -1,8 +1,8 @@
 import OpenAI from "openai";
 
 const ai = new OpenAI({
-  apiKey: process.env.GEMINI_API_KEY,
-  baseURL: process.env.OPENAI_BASE_URL,
+  apiKey: process.env.GROQ_API_KEY,
+  baseURL: "https://api.groq.com/openai/v1",
 });
 
 export default ai;
