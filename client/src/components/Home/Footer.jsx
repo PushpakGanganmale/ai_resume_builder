@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Main Content Wrapper: Contains Logo and all Navigation Columns */}
         <div className="flex flex-wrap items-start gap-10 md:gap-[60px] xl:gap-[140px]">
           {/* Logo/Branding Link */}
-          <a href="https://resume-builder-ai-mern.vercel.app/">
+          <a href="/">
             <img
               src="./logo.svg"
               alt="Resume Builder Logo" // Good practice: descriptive alt text
@@ -137,7 +137,7 @@ const Footer = () => {
 
             {/* LinkedIn Link */}
             <a
-              href="https://linkedin.com/in/chinmay-sharad-kaitade"
+              href="https://www.linkedin.com/in/pushpak-ganganmale-187814219/"
               target="_blank"
               rel="noreferrer"
             >
@@ -162,7 +162,7 @@ const Footer = () => {
 
             {/* X/Twitter Link */}
             <a
-              href="https://x.com/chinmaydotcom"
+              href="https://x.com/PushpakG_123"
               target="_blank"
               rel="noreferrer"
             >
@@ -182,42 +182,7 @@ const Footer = () => {
                 <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path>
               </svg>
             </a>
-
-            {/* YouTube Link */}
-            <a
-              href="https://www.youtube.com/@ChinmayKaitade"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                className="lucide lucide-youtube size-6 hover:text-green-500"
-                aria-hidden="true"
-              >
-                <path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17"></path>
-                <path d="m10 15 5-3-5-3z"></path>
-              </svg>
-            </a>
           </div>
-
-          {/* Copyright Notice: Uses the dynamically calculated current year */}
-          <p className="mt-3 text-center">
-            © {currentYear}{" "}
-            <a
-              href="https://chinmaykaitadeportfolio.vercel.app/"
-              target="_blank"
-            >
-              Made By ❤️‍🔥 with Chinmay Kaitade
-            </a>
-          </p>
         </div>
       </footer>
 
