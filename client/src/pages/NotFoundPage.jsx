@@ -111,7 +111,7 @@ const NotFoundPage = () => {
             </li>
             <li>
               <a
-                href="mailto:chinmaykaitade123@gmail.com"
+                href="mailto:pushpakganganmale12345@gmail.com"
                 style={{ ...styles.buttonLink, ...styles.secondary }}
               >
                 Contact Support
