@@ -120,11 +120,11 @@ AI Layer (GROQ)
 
 Frontend
 
-https://resume-builder-ai-mern.vercel.app/
+https://ai-resume-builder-frontend-g5gs.onrender.com
 
 Backend
 
-https://resume-builder-ai-backend.onrender.com
+https://ai-resume-builder-ujni.onrender.com
 
 ---
 
