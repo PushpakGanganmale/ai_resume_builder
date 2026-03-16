@@ -226,5 +226,3 @@ LinkedIn
 https://www.linkedin.com/in/pushpak-ganganmale-187814219/
 
 ---
-
-⭐ If you like this project, consider giving it a star.
