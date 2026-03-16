@@ -145,7 +145,7 @@ export const uploadResume = async (req, res) => {
     `;
 
     const response = await ai.chat.completions.create({
-       model: "llama-3.1-8b-instant",
+      model: process.env.OPENAI_MODEL,
       messages: [
         {
           role: "system",
