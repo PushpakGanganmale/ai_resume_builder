@@ -23,8 +23,8 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send(`<div>
     <h1>DEFAULT ROUTE</h1>  
-    <p>Resume Builder AI is Live🔥 Everything is running OK 👍🚀</p>
-    <p>Made By ❤️‍🔥 with Chinmay Kaitade</p>
+    <p>Resume Builder AI is Live Everything is running OK </p>
+    <p>Made By Pushpak </p>
     </div>`);
 });
 
